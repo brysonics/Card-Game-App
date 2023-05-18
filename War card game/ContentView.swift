@@ -98,7 +98,7 @@ struct ContentView: View {
         }
         
         else if cpuScoreValue > playerCardValue {
-            // add 1 tp cpu score
+            // add 1 to cpu score
             cpuScore += 1
         }
         
